@@ -1,0 +1,206 @@
+[
+  {
+    "question": "What is Sungkyu's position in INFINITE?",
+    "choices": ["Lead Rapper", "Main Vocalist", "Main Dancer"],
+    "answer": 1
+  },
+  {
+    "question": "Which member is known for the nickname 'Hamster'?",
+    "choices": ["Sungjong", "Sungkyu", "Dongwoo"],
+    "answer": 1
+  },
+  {
+    "question": "What is Dongwoo’s MBTI type?",
+    "choices": ["ENFP", "ENTJ", "ISTJ"],
+    "answer": 0
+  },
+  {
+    "question": "Which member was a former schoolmate of EXO’s Xiumin?",
+    "choices": ["Woohyun", "L", "Dongwoo"],
+    "answer": 2
+  },
+  {
+    "question": "Who has an older brother named Nam Boohyun?",
+    "choices": ["L", "Sungjong", "Woohyun"],
+    "answer": 2
+  },
+  {
+    "question": "Which member’s favorite color is black?",
+    "choices": ["Sungkyu", "L", "Sungyeol"],
+    "answer": 1
+  },
+  {
+    "question": "Who made their solo debut with the album 'Bye'?",
+    "choices": ["Sungjong", "Dongwoo", "Sungkyu"],
+    "answer": 1
+  },
+  {
+    "question": "Who enlisted in the military on March 26, 2019?",
+    "choices": ["Sungjong", "Hoya", "Sungyeol"],
+    "answer": 2
+  },
+  {
+    "question": "Which member has the nickname 'Dinosaur'?",
+    "choices": ["Sungkyu", "Dongwoo", "Woohyun"],
+    "answer": 1
+  },
+  {
+    "question": "Which member is currently managed by Double H TNE?",
+    "choices": ["Woohyun", "Dongwoo", "Sungkyu"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known for their role as a visual in the group?",
+    "choices": ["Sungjong", "L", "Sungyeol"],
+    "answer": 1
+  },
+  {
+    "question": "What was Hoya’s position in INFINITE?",
+    "choices": [
+      "Lead Rapper, Main Dancer",
+      "Main Vocalist, Lead Rapper",
+      "Lead Rapper, Lead Dancer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which member’s ideal type is a woman with a pretty smile who looks good in glasses?",
+    "choices": ["Dongwoo", "Sungjong", "Woohyun"],
+    "answer": 2
+  },
+  {
+    "question": "Who graduated from Daekyung University with a major in Applied Music?",
+    "choices": ["Sungkyu", "Sungjong", "All of the above"],
+    "answer": 2
+  },
+  {
+    "question": "Which member has a younger brother named Seonkyu?",
+    "choices": ["L", "Sungjong", "Dongwoo"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as 'Maknae' in INFINITE?",
+    "choices": ["Sungyeol", "Sungjong", "Hoya"],
+    "answer": 1
+  },
+  {
+    "question": "Which member’s favorite food is 'What my mom cooks'?",
+    "choices": ["Woohyun", "Sungjong", "L"],
+    "answer": 1
+  },
+  {
+    "question": "Who has a nickname 'Cold City Man'?",
+    "choices": ["Dongwoo", "Woohyun", "Sungyeol"],
+    "answer": 1
+  },
+  {
+    "question": "Which member was the fastest to learn the scorpion dance?",
+    "choices": ["Sungjong", "Sungkyu", "Dongwoo"],
+    "answer": 1
+  },
+  {
+    "question": "Who released the album '10 Stories'?",
+    "choices": ["Sungjong", "Sungkyu", "Woohyun"],
+    "answer": 1
+  },
+  {
+    "question": "Which member is known for being very photogenic?",
+    "choices": ["Sungjong", "Sungkyu", "Dongwoo"],
+    "answer": 0
+  },
+  {
+    "question": "Who left Woollim Entertainment on March 31, 2021?",
+    "choices": ["Dongwoo", "Sungyeol", "Woohyun"],
+    "answer": 1
+  },
+  {
+    "question": "Which member has a younger brother named Moonsu?",
+    "choices": ["Sungjong", "Dongwoo", "L"],
+    "answer": 2
+  },
+  {
+    "question": "Who chose BEAST’s Yoseob as an idol they want a duet with?",
+    "choices": ["Sungkyu", "Dongwoo", "Sungyeol"],
+    "answer": 1
+  },
+  {
+    "question": "Which member’s ideal type is someone who is chubby and cute?",
+    "choices": ["L", "Sungjong", "Woohyun"],
+    "answer": 1
+  },
+  {
+    "question": "Who has a nickname 'Choding'?",
+    "choices": ["Dongwoo", "Sungyeol", "Sungjong"],
+    "answer": 1
+  },
+  {
+    "question": "Who is currently managed by BigBoss Entertainment?",
+    "choices": ["Woohyun", "Dongwoo", "Sungkyu"],
+    "answer": 1
+  },
+  {
+    "question": "Which member’s favorite food is Ton Katsu?",
+    "choices": ["Sungkyu", "Sungyeol", "Sungjong"],
+    "answer": 1
+  },
+  {
+    "question": "Who made their solo debut with the album 'Memory'?",
+    "choices": ["Sungjong", "L", "Hoya"],
+    "answer": 1
+  },
+  {
+    "question": "Which member’s previous MBTI type was ISTJ?",
+    "choices": ["L", "Sungkyu", "Sungjong"],
+    "answer": 1
+  },
+  {
+    "question": "Who is currently a solo singer and actor under Glorious Entertainment?",
+    "choices": ["Woohyun", "Hoya", "L"],
+    "answer": 1
+  },
+  {
+    "question": "Which member’s nickname is 'Kkulgyu'?",
+    "choices": ["Dongwoo", "Sungkyu", "Sungjong"],
+    "answer": 1
+  },
+  {
+    "question": "Who enlisted in the military on April 15, 2019?",
+    "choices": ["Sungjong", "Hoya", "Dongwoo"],
+    "answer": 2
+  },
+  {
+    "question": "Which member has an MBTI type of INFP?",
+    "choices": ["L", "Sungkyu", "Sungyeol"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known for being the best at girl group dances?",
+    "choices": ["Sungjong", "Woohyun", "L"],
+    "answer": 0
+  },
+  {
+    "question": "Who has the nickname 'Monkey Boy'?",
+    "choices": ["Sungkyu", "Dongwoo", "Sungjong"],
+    "answer": 1
+  },
+  {
+    "question": "Which member was the last to join INFINITE?",
+    "choices": ["Sungyeol", "Sungjong", "Dongwoo"],
+    "answer": 0
+  },
+  {
+    "question": "Who released the album 'True Love'?",
+    "choices": ["Sungjong", "Sungkyu", "Woohyun"],
+    "answer": 1
+  },
+  {
+    "question": "Which member is known for their role as 'Chef'?",
+    "choices": ["Sungyeol", "Woohyun", "Dongwoo"],
+    "answer": 1
+  },
+  {
+    "question": "Who has a favorite color of yellow?",
+    "choices": ["Sungkyu", "Sungjong", "Dongwoo"],
+    "answer": 1
+  }
+]
