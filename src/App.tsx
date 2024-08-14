@@ -63,7 +63,13 @@ function App() {
         <div className='border border-black p-14 flex flex-col justify-center items-center gap-20'>
           <h1 className='text-8xl'>Play Again?</h1>
           <div className='flex gap-5'>
-            <button className='border-2 rounded-sm p-3 w-32 hover:bg-stone-100 transition duration-200'>
+            <button
+              onClick={() => {
+                window.location.href =
+                  'https://aquamarine-begonia-e3e1c3.netlify.app'
+              }}
+              className='border-2 rounded-sm p-3 w-32 hover:bg-stone-100 transition duration-200'
+            >
               Return Home
             </button>
             <button
